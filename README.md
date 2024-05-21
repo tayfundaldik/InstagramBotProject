@@ -1,4 +1,5 @@
-![Instagram_logo_2022](https://github.com/tayfundaldik/InstagramBotProject/assets/79011413/d4f4aaed-3471-414a-b45f-3b53b7e081b4)
+
+![256px-Instagram_icon](https://github.com/tayfundaldik/InstagramBotProject/assets/79011413/86b5fa5c-fa8f-49ad-b5bd-73f41dc2d214)
 
 # Instagram Bot Project
 <br/>
